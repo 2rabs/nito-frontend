@@ -10,6 +10,29 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^2.0.17"
+    "@astrojs/tailwind": "^3.0.1",
+    "astro": "^2.0.4",
+    "tailwindcss": "^3.0.24"
+  },
+  "volta": {
+    "node": "18.14.2",
+    "yarn": "1.22.19"
+  },
+  "devDependencies": {
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-simple-import-sort": "^10.0.0",
+    "eslint-plugin-sort-keys-custom-order": "^1.0.5",
+    "eslint-plugin-tailwindcss": "^3.9.0",
+    "eslint-plugin-unused-imports": "^2.0.0",
+    "@tailwindcss/forms": "^0.5.3",
+    "@tailwindcss/line-clamp": "^0.4.2",
+    "@tailwindcss/typography": "^0.5.9",
+    "@typescript-eslint/eslint-plugin": "^5.54.0",
+    "@typescript-eslint/parser": "^5.54.0",
+    "eslint": "^8.35.0",
+    "eslint-plugin-astro": "^0.23.0",
+    "postcss-html": "^1.5.0",
+    "prettier": "^2.8.4",
+    "prettier-plugin-astro": "^0.8.0"
   }
 }
