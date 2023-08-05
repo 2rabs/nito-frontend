@@ -10,7 +10,7 @@ specifiers:
   astro: ^2.0.4
   astro-icon: ^0.8.0
   eslint: ^8.35.0
-  eslint-plugin-astro: ^0.27.0
+  eslint-plugin-astro: ^0.28.0
   eslint-plugin-import: ^2.27.5
   eslint-plugin-simple-import-sort: ^10.0.0
   eslint-plugin-sort-keys-custom-order: ^1.0.5
@@ -35,7 +35,7 @@ devDependencies:
   '@typescript-eslint/eslint-plugin': 5.54.1_mlk7dnz565t663n4razh6a6v6i
   '@typescript-eslint/parser': 5.54.1_ycpbpc6yetojsgtrx3mwntkhsu
   eslint: 8.35.0
-  eslint-plugin-astro: 0.27.1_eslint@8.35.0
+  eslint-plugin-astro: 0.28.0_eslint@8.35.0
   eslint-plugin-import: 2.27.5_uyiasnnzcqrxqkfvjklwnmwcha
   eslint-plugin-simple-import-sort: 10.0.0_eslint@8.35.0
   eslint-plugin-sort-keys-custom-order: 1.0.5_eslint@8.35.0
@@ -1883,8 +1883,8 @@ packages:
       - supports-color
     dev: true
 
-  /eslint-plugin-astro/0.27.1_eslint@8.35.0:
-    resolution: {integrity: sha512-xt02HVlj5lBoAPzYOKDfVa3swjFr2Vh0Rj6TsInWmfcmQcjEkDMnu9olUAF8Q+LqHr0wQr5z6GmcxJskSqOmjQ==}
+  /eslint-plugin-astro/0.28.0_eslint@8.35.0:
+    resolution: {integrity: sha512-fZ3B93nXLSXMmEYSAnHkDRBKDbUFuIkWj5CoKE4fxjPnE/EZEHu6zxtX2UJZeclJKu33Uf2mWdeCJKFufyracg==}
     engines: {node: ^14.18.0 || >=16.0.0}
     peerDependencies:
       eslint: '>=7.0.0'
