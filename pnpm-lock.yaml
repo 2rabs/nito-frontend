@@ -18,7 +18,7 @@ specifiers:
   eslint-plugin-unused-imports: ^2.0.0
   postcss-html: ^1.5.0
   prettier: ^2.8.4
-  prettier-plugin-astro: ^0.11.0
+  prettier-plugin-astro: ^0.12.0
   tailwindcss: ^3.0.24
   typescript: ^4.7.4
 
@@ -43,7 +43,7 @@ devDependencies:
   eslint-plugin-unused-imports: 2.0.0_vkrezerrv4xnu4uoc4gpfx7tv4
   postcss-html: 1.5.0
   prettier: 2.8.4
-  prettier-plugin-astro: 0.11.0
+  prettier-plugin-astro: 0.12.0
   typescript: 4.9.5
 
 packages:
@@ -3729,9 +3729,9 @@ packages:
     engines: {node: '>= 0.8.0'}
     dev: true
 
-  /prettier-plugin-astro/0.11.0:
-    resolution: {integrity: sha512-rl2hJ4Kty/aEfGjk3i4JS+bpng9MjgvwqLRNzeb9NqYhqKoWNwOR39cIJXFjU1vR3zYOPnwWNRMelKb0orunYA==}
-    engines: {node: ^14.15.0 || >=16.0.0, pnpm: '>=7.14.0'}
+  /prettier-plugin-astro/0.12.0:
+    resolution: {integrity: sha512-8E+9YQR6/5CPZJs8XsfBw579zrwZkc0Wb7x0fRVm/51JC8Iys4lBw4ecV8fHwpbQnzve86TUa4fJ08BJzqfWnA==}
+    engines: {node: ^14.15.0 || >=16.0.0}
     dependencies:
       '@astrojs/compiler': 1.5.6
       prettier: 3.0.0
