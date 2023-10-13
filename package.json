@@ -16,7 +16,7 @@
     "tailwindcss": "^3.0.24"
   },
   "volta": {
-    "node": "18.17.0",
+    "node": "18.18.2",
     "pnpm": "7.33.5"
   },
   "devDependencies": {
